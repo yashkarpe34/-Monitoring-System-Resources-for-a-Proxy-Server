@@ -1,7 +1,6 @@
 # System Resource Monitor
 
-This script provides a live dashboard for monitoring system resources.
-
+1 Download VirtualMachine
 ## Usage
 
 ```bash
